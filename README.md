@@ -1,5 +1,7 @@
 ## About Me
 
+![image](About.png)
+
 ---
 
 Hello! I’m **oculink** — a tech enthusiast (I guess), Linux enjoyer, and AI developer who loves building cool (and slightly unhinged) things.
