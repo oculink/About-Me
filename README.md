@@ -20,7 +20,7 @@ I spend most of my time experimenting with **AI**, **computer vision**, **automa
 ---
 
 ### Tech Stack
-- **Languages:** Python, Bash
+- **Languages:** Python, Bash, C, Lua, HTML, Java
 - **AI / ML:** LLMs, Vision-Language Models
 - **Tools:** Pip, Git, VS Code, Linux CLI
 - **Hardware:** 
