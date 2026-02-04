@@ -39,6 +39,15 @@ I spend most of my time experimenting with **AI**, **computer vision**, **automa
 
 ---
 
+### Socials
+- [YouTube](https://youtube.com/@ocu-link)
+- [Twitch](https://twitch.tv/oculink)
+- [SpaceHey](https://spacehey.com/oculink)
+- [GitHub](https://github.com/oculink)
+- [BlueSky](https://bsky.app/profile/oculink.bsky.social)
+
+---
+
 ### Philosophy
 > Learn by breaking things.  
 > Build what you wish existed.  
